@@ -5,7 +5,7 @@
 - Study and understand the Behavioral Design Patterns.
 - As a continuation of the previous laboratory work, think about what communication between software entities might be involed in your system.
 - Implement some additional functionalities using behavioral design patterns.
-##Theory
+## Theory
 **Behavioral design patterns** are concerned with the interaction and responsibility of objects.<br>
 In these design patterns, the interaction between the objects should be in such a way that they can easily talk to each other and still should be loosely coupled.<br>
 That means the implementation and the client should be loosely coupled in order to avoid hard coding and dependencies.<br>
